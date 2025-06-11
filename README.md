@@ -4,7 +4,7 @@ This repository contains laboratory assignments completed as part of an IBM data
 
 Three of these assignments are presented here to illustrate examples of tasks and approaches learned during the course. Each entry includes a brief description and a screenshot demonstrating the application in action.
 
-* **`Dash_wildfire.py`**: Interactive dashboard for analyzing wildfire statistics in Australia.
+* **(Dash_wildfire.py)**: Interactive dashboard for analyzing wildfire statistics in Australia.
 
   [Screenshot of Wildfire Dashboard](Screenshot_Dash_1.png)
 
