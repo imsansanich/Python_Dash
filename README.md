@@ -2,7 +2,7 @@
 
 This repository contains laboratory assignments completed as part of an IBM data analysis course.
 
-Three of these assignments are presented here to illustrate examples of tasks and approaches learned during the course. Each entry includes a brief description and a screenshot demonstrating the application in action.
+Two of these assignments are presented here to illustrate examples of tasks and approaches learned during the course. Each entry includes a brief description and a screenshot demonstrating the application in action.
 
 * [**Dash_wildfire.py**](Dash_wildfire.py): Interactive dashboard for analyzing wildfire statistics in Australia.
 
