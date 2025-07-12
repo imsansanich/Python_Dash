@@ -8,10 +8,6 @@ Three of these assignments are presented here to illustrate examples of tasks an
 
   [Screenshot of Wildfire Dashboard](Screenshot_Dash_1.png)
 
-* [**dash_basics.py**](dash_basics.py): Examples of basic components and callbacks within the Dash framework.
-
-  [Screenshot of Dash Basics](Screenshot_Dash_2.png)
-
 * [**flight_delay.py**](flight_delay.py): Visualization and analysis of flight delay causes.
 
   [Screenshot of Flight Delay Analysis](Screenshot_Dash_3.png)
